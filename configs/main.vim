@@ -15,9 +15,9 @@ if exists('+termguicolors')
   let &t_8b = "\<Esc>[48;2;%lu;%lu;%lum"
   set termguicolors
 endif
-let g:gruvbox_contrast_dark='hard'
-set background=dark
-colorscheme gruvbox
+" let g:gruvbox_contrast_dark='hard'
+" set background=dark
+colorscheme gotham
 
 augroup specify_filetype
     autocmd!

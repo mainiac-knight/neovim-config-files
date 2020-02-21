@@ -94,6 +94,8 @@ Plug 'lervag/vimtex'
 " Gruvbox
 Plug 'morhetz/gruvbox'
 
+" Vim Gotham
+Plug 'whatyouhide/vim-gotham'
 
 " Wal theme
 Plug 'dylanaraps/wal.vim'
